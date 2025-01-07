@@ -135,4 +135,4 @@ PERPLEXITY_API_KEY=your_perplexity_api_key
 
 ## Support
 
-For support, please [add contact information or support channels] 
+For support, please contact ashaheen@workhub.ai
