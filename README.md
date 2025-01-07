@@ -125,7 +125,7 @@ PERPLEXITY_API_KEY=your_perplexity_api_key
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2024 WorkHub Platform Inc. 
+Copyright (c) 2025 WorkHub Platform Inc. All rights reserved.
 
 This program is free software: you can redistribute it and/or modify it for private, non-commercial use only, under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
