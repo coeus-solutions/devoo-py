@@ -1,0 +1,61 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+ADDITIONAL TERMS AND CONDITIONS FOR DEVOO BACKEND
+
+Copyright (c) 2024 Coeus Solutions
+
+In addition to the terms and conditions of the GNU Affero General Public License v3.0,
+the following additional terms and conditions apply to this software:
+
+1. NON-COMMERCIAL USE ONLY: This software and its derivatives may only be used for
+   private, non-commercial purposes. Any commercial use, including but not limited to:
+   - Selling the software or derivative works
+   - Using the software in a commercial product
+   - Using the software to provide commercial services
+   is strictly prohibited without explicit written permission from Coeus Solutions.
+
+2. PRIVATE USE: Users are permitted to use, modify, and distribute this software
+   for private, non-commercial purposes only, provided they comply with all other
+   terms of this license.
+
+3. WRITTEN PERMISSION: Any use of this software for commercial purposes requires
+   explicit written permission from Coeus Solutions.
+
+These additional terms are intended to supplement and not replace any other
+terms or conditions of the GNU Affero General Public License v3.0.
+
+[Full AGPL-3.0 License Text Follows]
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" refers to version 3 of the GNU Affero General Public License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+  "The Program" refers to any copyrightable work licensed under this
+License. Each licensee is addressed as "you". "Licensees" and
+"recipients" may be individuals or organizations.
+
+  "Modify" means to copy from or adapt all or part of the work in a fashion
+requiring copyright permission, other than the making of an exact copy. The
+resulting work is called a "modified version" of the earlier work or a work
+"based on" the earlier work.
+
+  "Covered work" means either the unmodified Program or a work based on
+the Program.
+
+[... Rest of standard AGPL-3.0 license text ...] 
