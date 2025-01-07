@@ -1,0 +1,33 @@
+# FastAPI and server dependencies
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Supabase
+supabase
+postgrest
+
+# AI/ML dependencies
+anthropic
+
+# Utilities
+python-dotenv
+httpx
+websockets
+asyncio
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# Type checking
+mypy
+types-python-jose
+types-passlib
